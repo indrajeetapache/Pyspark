@@ -98,6 +98,8 @@ df.show()
 +---+---+---+--------------------+
 
 print(rows)
+               
+               
 [{'name': 'Liechtenstein',
   'rank': '1',
   'year': '2008',
